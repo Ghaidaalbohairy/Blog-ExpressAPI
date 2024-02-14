@@ -2,7 +2,6 @@
 
 This is a RESTful API simulation of a blog. It can be tested using any API development platform such as postman and insomnia.   
 
-
 The development was done only using Javascript, specifically Node.js and its libraries for the backend mainly Express.js.
 
 Express.js s a back end web application framework for Node.js, it is designed for building web applications and APIs.
